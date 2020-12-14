@@ -68,5 +68,5 @@ while True:
           else:
             break
         timee = (timee if isinstance(timee, Number) else 0) + -1
-  else:
-    print('游戏提示：您需要在规定时间内，按照提示，按下指定的按钮，提示的规范为：25的英文是twenty-five，那么可能会提示tf。如果你男错了按钮，将会自动结束游戏。游戏将会按下GPIO24号按钮后自动开始')
+  elif _E8_AE_BE_E5_A4_87.value:
+    print('游戏提示：您需要在规定时间内，按照提示，按下指定的按钮，提示的规范为：25的英文是twenty-five，那么可能会提示tf。如果你按错了按钮，将会自动结束游戏。游戏将会按下GPIO24号按钮后自动开始')
