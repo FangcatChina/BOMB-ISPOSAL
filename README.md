@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://www.gnu.org/licenses/mit)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/fangcatchina/bomb-isposal)](https://github.com/FangcatChina/bomb-isposal/)
+[https://img.shields.io/badge/Python-3.7-blue]
 #### 介绍
 还原拆弹专家小游戏！
 
